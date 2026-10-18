@@ -2,11 +2,11 @@
 
 A browser lunar lander game with numbered levels, including cargo runs where the craft carries a load on a line.
 
-Repository: https://github.com/andr3w/lunar
+Play it at https://sqlzoo.net/lunar/
 
 ## Playing
 
-Open `index.html` in a browser. There is no build step and nothing to install.
+To run a local copy, open `index.html` in a browser. There is no build step and nothing to install.
 
 | Key | Action |
 |---|---|
